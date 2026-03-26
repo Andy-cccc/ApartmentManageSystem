@@ -53,7 +53,7 @@ The project follows a layered backend design:
 
 This structure helps improve readability, maintainability, and scalability.
 
-Apartment Management System（公寓管理系统）
+公寓管理系统
 技术栈： Java 17, Spring Boot 3, Maven, MyBatis-Plus, MySQL, JWT, Knife4j, MinIO
 
 设计并开发基于 Spring Boot 的公寓管理系统后端，采用 Maven 多模块架构拆分 common、model、web 等模块，提高项目可维护性与代码复用性。
